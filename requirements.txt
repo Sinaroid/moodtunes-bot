@@ -1,0 +1,6 @@
+python-telegram-bot==21.10
+anthropic>=0.50.0
+python-dotenv==1.0.1
+aiosqlite==0.20.0
+openai-whisper
+libsql-client>=0.3.0

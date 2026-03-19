@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(claude-api)",
+      "Bash(pip install:*)",
+      "Bash(python bot.py)",
+      "Bash(taskkill /F /IM python.exe)",
+      "Bash(taskkill //F //IM python.exe)",
+      "Bash(python -c \":*)",
+      "Bash(pip show:*)",
+      "Bash(winget install:*)",
+      "Bash(powershell -Command \"irm https://get.tur.so/install.ps1 | iex\")",
+      "Bash(git rm:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
+    ]
+  }
+}
